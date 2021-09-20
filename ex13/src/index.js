@@ -4,5 +4,6 @@ function randomRangeNumber(minNumber, maxNumber) {
 
 };
 randomRangeNumber();
+console.log(randomRangeNumber(1,9));
 // Only change code above this line
 module.exports = randomRangeNumber;
