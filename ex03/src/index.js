@@ -3,7 +3,7 @@ var myGlobalVariable = 10;
 
 function function1() {
 
-    var notGlobalVariable = 5;
+    notGlobalVariable = 5;
 }
 
 
